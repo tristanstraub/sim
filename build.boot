@@ -1,6 +1,6 @@
 #!/usr/bin/env boot
 (set-env!
- :source-paths #{"src" "test"}
+ :source-paths #{"src"}
  :resource-paths #{"resources"}
  :dependencies '[[org.clojure/clojure "1.8.0"]
                  [org.clojure/data.json "0.2.6"]
